@@ -77,7 +77,4 @@ This repository welcomes contributions from the community. If you'd like to add 
 
 This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
-Explore, learn, and be inspired by these JavaScript mini projects, crafted with your impressive skills in mind! Happy coding!
-```
-
-Please replace the `[View Live](#)` placeholders with the actual live demo links for each project when you have them available.
+Explore, learn, and be inspired by these JavaScript mini projects, crafted with ❤️ ! Happy coding!
