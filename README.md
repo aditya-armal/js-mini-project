@@ -10,7 +10,7 @@ Welcome to the JavaScript Mini Projects repository! Here, you will discover an i
 | [Roll the Dice](#roll-the-dice) | [![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://velvety-baklava-7ce5f8.netlify.app/) |
 | [Calculator](#calculator) | [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=FFFFFF)](https://adityaarmal-calculator.vercel.app/) |
 | [Scratch Card](#scratch-card) | [![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://fabulous-pika-28c185.netlify.app/) |
-| [Dictionary App](#dictionary-app) | Coming soon... |
+| [Dictionary App](#dictionary-app) | [![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://aesthetic-wisp-6d305d.netlify.app/) |
 | [Flip a Coin](#flip-a-coin) | Coming soon... |
 | [Digital Clock](#digital-clock) | [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=FFFFFF)](https://adityaarmal-digital-clock.vercel.app/) |
 | [Flipping Credit Card UI Design](#flipping-credit-card-ui-design) | [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=FFFFFF)](https://card-flipping.vercel.app/) |
