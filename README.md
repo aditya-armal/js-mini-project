@@ -77,4 +77,4 @@ This repository welcomes contributions from the community. If you'd like to add 
 
 This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
-Explore, learn, and be inspired by these JavaScript mini projects, crafted with ❤️ ! Happy coding!
+Explore, learn, and be inspired by these JavaScript mini projects, crafted with ❤️ by Aditya Armal ! Happy coding!
