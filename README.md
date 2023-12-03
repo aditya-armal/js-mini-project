@@ -1,6 +1,6 @@
 # JavaScript Mini Projects
 
-Welcome to the JavaScript Mini Projects repository! Here, you will discover an impressive collection of small yet engaging JavaScript projects that showcase a diverse range of skills. Each project serves as a testament to your proficiency in web development and JavaScript. Whether you're a beginner looking to learn or an experienced developer seeking inspiration, these projects have something to offer.
+Welcome to the JavaScript Mini Projects repository! Here, you will discover an impressive collection of small yet engaging JavaScript projects that showcase a diverse range of skills. Each project serves as a testament to your proficiency in web development and JavaScript. Whether you're a beginner looking to learn or an experienced developer seeking inspiration, these projects have something to offer. 
 
 ## Table of Contents
 <div align="center">
