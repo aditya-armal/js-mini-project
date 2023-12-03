@@ -24,6 +24,7 @@ Welcome to the JavaScript Mini Projects repository! Here, you will discover an i
 | [Word Guessing Game](#word-guessing-game) | Coming soon... |
 | [Number Guess](#number-guess) | [![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://bejewelled-marzipan-b5ef64.netlify.app/) |
 | [Typing Speed Test](#typing-speed-test) | [![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://lambent-faloodeh-77980e.netlify.app/) |
+| [Know Your Body Mass Index](#know-your-body-mass-index) | [![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://enchanting-peony-93cc5c.netlify.app/) |
 
 
 </div>
@@ -78,6 +79,9 @@ Engage users in a word-guessing game that challenges their vocabulary. The proje
 
 ## Typing Speed Test
 ![image](https://github.com/aditya-armal/js-mini-project/assets/20648225/4bd650c8-61c3-4bf1-a6f8-ed1bf384f1ee)
+
+## Know Your Body Mass Index
+![image](https://github.com/aditya-armal/js-mini-project/assets/20648225/8daeed9b-9948-4864-a2c1-8321d2e4d5d1)
 
 ## Info
 
